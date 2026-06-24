@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -37,4 +38,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
