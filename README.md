@@ -39,16 +39,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0785-is-graph-bipartite) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
