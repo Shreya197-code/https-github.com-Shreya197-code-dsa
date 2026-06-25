@@ -1,63 +1,36 @@
 class Solution {
 public:
-
-    bool dfs(int node,
-             vector<vector<int>>& adj,
-             vector<int>& vis,
-             vector<int>& pathVis,
-             vector<int>& topo) {
-
-        vis[node] = 1;
-        pathVis[node] = 1;
-
-        for (auto it : adj[node]) {
-
-            if (!vis[it]) {
-
-                if (dfs(it, adj, vis, pathVis, topo))
-                    return true;   // cycle found
-            }
-
-            else if (pathVis[it]) {
-                return true;       // back edge => cycle
-            }
-        }
-
-        pathVis[node] = 0;
-
-        topo.push_back(node);
-
-        return false;
+ vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+      vector<int>adj[numCourses];
+    for(auto it:prerequisites){
+        adj[it[1]].push_back(it[0]);
     }
-
-    vector<int> findOrder(int numCourses,
-                          vector<vector<int>>& prerequisites) {
-
-        vector<vector<int>> adj(numCourses);
-
-        for (auto &it : prerequisites) {
-
-            int course = it[0];
-            int prereq = it[1];
-
-            adj[prereq].push_back(course);
-        }
-
-        vector<int> vis(numCourses, 0);
-        vector<int> pathVis(numCourses, 0);
-        vector<int> topo;
-
-        for (int i = 0; i < numCourses; i++) {
-
-            if (!vis[i]) {
-
-                if (dfs(i, adj, vis, pathVis, topo))
-                    return {};
+        
+       vector<int> indegree(numCourses, 0);
+        for(int i=0;i<numCourses;i++){
+            for(auto it:adj[i]){
+                indegree[it]++;
             }
         }
+        queue<int>q;
+        for(int i=0;i<numCourses;i++){
+           if( indegree[i]==0)
+           q.push(i);
+        }
+        vector<int>topo;
+        while(!q.empty()){
+            int node=q.front();
+            q.pop();
+            topo.push_back(node);
 
-        reverse(topo.begin(), topo.end());
-
-        return topo;
+            for(auto it :adj[node]){
+                indegree[it]--;
+                if(indegree[it]==0) q.push(it);
+            }
+        }
+if(topo.size()==numCourses){
+    return topo;
+}
+return {};
     }
 };
