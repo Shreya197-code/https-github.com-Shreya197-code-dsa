@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0344-reverse-string) |
