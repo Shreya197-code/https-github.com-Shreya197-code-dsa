@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0647-palindromic-substrings) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Breadth-First Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
