@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
