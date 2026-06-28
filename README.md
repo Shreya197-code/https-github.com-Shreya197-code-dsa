@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String Matching
 |  |
 | ------- |
