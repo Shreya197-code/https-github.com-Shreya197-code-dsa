@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0802-find-eventual-safe-states) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -86,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0785-is-graph-bipartite) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -146,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0876-middle-of-the-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
