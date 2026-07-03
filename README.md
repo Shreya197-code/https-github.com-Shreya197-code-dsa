@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0707-design-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
