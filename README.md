@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0057-insert-interval) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0142-linked-list-cycle-ii) |
