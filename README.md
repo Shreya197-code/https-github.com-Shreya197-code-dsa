@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0876-middle-of-the-linked-list) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0686-repeated-string-match) |
