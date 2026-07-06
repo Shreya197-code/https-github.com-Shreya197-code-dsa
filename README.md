@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1768-merge-strings-alternately](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
