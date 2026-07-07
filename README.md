@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0202-happy-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Shortest Path
 |  |
 | ------- |
