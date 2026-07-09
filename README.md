@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1854-maximum-population-year](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -266,6 +267,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Counting
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
