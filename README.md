@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0242-valid-anagram) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
 | [1854-maximum-population-year](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1854-maximum-population-year) |
 ## Simulation
 |  |
