@@ -4,9 +4,11 @@ public:
         int n=nums.size();
         unordered_map<int,int>mpp(n);
         for(int i=0;i<n;i++){
-       mpp[nums[i]]++;
-           if(mpp[nums[i]]>1) return true;
+          if(mpp.find(nums[i])!=mpp.end()){
+            return true;
+          }
+          mpp[nums[i]]++;
         }
-        return false;
+          return false;
     }
 };
