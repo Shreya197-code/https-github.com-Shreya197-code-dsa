@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0217-contains-duplicate) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
