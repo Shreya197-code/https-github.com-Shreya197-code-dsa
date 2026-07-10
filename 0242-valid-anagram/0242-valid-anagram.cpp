@@ -2,8 +2,16 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         if(s.size()!=t.size()) return false;
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        return (s==t);
+       vector<int>mpp(26,0);
+     for(int i=0;i<s.size();i++){
+        mpp[s[i]-'a']++;
+        mpp[t[i]-'a']--;
+       
+     }
+     for(int x:mpp){
+        if(x!=0) return false;
+     }
+     return true;
+
     }
 };
