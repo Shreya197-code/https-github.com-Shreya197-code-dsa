@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0724-find-pivot-index) |
