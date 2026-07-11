@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
