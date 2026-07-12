@@ -5,12 +5,12 @@ public:
         for(int i=0;i<k;i++){
             sum+=nums[i];
         }
-        double ans=sum;
+          double maxi=sum;
         for(int i=k;i<nums.size();i++){
             sum+=nums[i];
             sum-=nums[i-k];
-            ans=max(ans,sum);
+            maxi=max(sum,maxi);
         }
-        return ans/k;
+        return maxi/k;
     }
 };
