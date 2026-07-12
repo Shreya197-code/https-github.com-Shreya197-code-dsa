@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1109-corporate-flight-bookings) |
 | [1288-remove-covered-intervals](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1854-maximum-population-year) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1331-rank-transform-of-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Breadth-First Search
 |  |
