@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1854-maximum-population-year) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0202-happy-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
