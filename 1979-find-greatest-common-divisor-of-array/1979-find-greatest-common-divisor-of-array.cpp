@@ -1,16 +1,10 @@
 class Solution {
 public:
     int findGCD(vector<int>& nums) {
-        int smallest=INT_MAX;
-        int largest=INT_MIN;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]>largest){
-                largest=nums[i];
-            }
-            if(nums[i]<smallest){
-                smallest=nums[i];
-            }
-        }
+        int smallest=*min_element(nums.begin(),nums.end());
+        int largest=*max_element(nums.begin(),nums.end());
+        
+        
         return gcd(smallest,largest);
     }
 };
