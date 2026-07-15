@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0202-happy-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1952-three-divisors](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -362,9 +363,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1291-sequential-digits) |
+| [1952-three-divisors](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
