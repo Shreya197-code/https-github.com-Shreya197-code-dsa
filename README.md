@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1768-merge-strings-alternately) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
@@ -401,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
