@@ -11,11 +11,12 @@ public:
             j--;
         }
         if(tolower(s[i])!=tolower(s[j])){
-            return false;
+          return false;
         }
         i++;
         j--;
       }
       return true;
+
     }
 };
