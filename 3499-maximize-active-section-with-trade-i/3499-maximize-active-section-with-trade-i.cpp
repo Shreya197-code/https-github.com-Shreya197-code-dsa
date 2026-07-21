@@ -2,28 +2,42 @@ class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
         int ones = 0;
-        for(char c : s)
-            if(c == '1') ones++;
+        for (char c : s)
+            ones += (c == '1');
 
         string t = "1" + s + "1";
-
-        vector<pair<char,int>> runs;
-
-        for(char c : t){
-            if(runs.empty() || runs.back().first != c)
-                runs.push_back({c,1});
-            else
-                runs.back().second++;
-        }
+        int n = t.size();
 
         int ans = ones;
 
-        for(int i = 1; i + 1 < runs.size(); i++){
-            if(runs[i].first == '1' &&
-               runs[i-1].first == '0' &&
-               runs[i+1].first == '0'){
-                ans = max(ans,
-                          ones + runs[i-1].second + runs[i+1].second);
+        int prevZero = 0;   // length of previous 0-run
+        int oneRun = 0;     // length of current 1-run
+
+        int i = 0;
+
+        while (i < n) {
+
+            if (t[i] == '0') {
+                int zeroRun = 0;
+                while (i < n && t[i] == '0') {
+                    zeroRun++;
+                    i++;
+                }
+
+                if (prevZero > 0 && oneRun > 0) {
+                    ans = max(ans, ones + prevZero + zeroRun);
+                }
+
+                prevZero = zeroRun;
+                oneRun = 0;
+            }
+            else {
+                int len = 0;
+                while (i < n && t[i] == '1') {
+                    len++;
+                    i++;
+                }
+                oneRun = len;
             }
         }
 
