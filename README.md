@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1854-maximum-population-year) |
+| [1920-build-array-from-permutation](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1518-water-bottles) |
+| [1920-build-array-from-permutation](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1920-build-array-from-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
