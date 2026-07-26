@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0088-merge-sorted-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0264-ugly-number-ii) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
 ## Merge Sort
