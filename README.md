@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0135-candy) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
 ## Merge Sort
@@ -429,4 +431,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
