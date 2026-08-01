@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0055-jump-game) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1301-number-of-paths-with-max-score) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0202-happy-number) |
