@@ -9,7 +9,9 @@ public:
             rev = rev * 10 + digit;
             x=x/10;
         }
-        if(rev>INT_MAX || rev<INT_MIN) return 0;
-        return int(rev)==temp;
+ if(rev==temp) return true;
+ else{
+    return false;
+ }
     }
 };
