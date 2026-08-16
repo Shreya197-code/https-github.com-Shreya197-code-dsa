@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0238-product-of-array-except-self) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0264-ugly-number-ii) |
 | [0507-perfect-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0507-perfect-number) |
@@ -421,12 +423,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1952-three-divisors) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -453,4 +457,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
