@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0647-palindromic-substrings) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0264-ugly-number-ii) |
 | [0507-perfect-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1518-water-bottles](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1518-water-bottles) |
@@ -469,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
