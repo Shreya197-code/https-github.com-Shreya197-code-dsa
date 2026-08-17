@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0264-ugly-number-ii) |
 | [0507-perfect-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0507-perfect-number) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0258-add-digits) |
 | [1094-car-pooling](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1518-water-bottles) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3312-sorted-gcd-pair-queries) |
