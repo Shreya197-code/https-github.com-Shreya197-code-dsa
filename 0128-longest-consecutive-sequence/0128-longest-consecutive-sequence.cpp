@@ -10,14 +10,13 @@ for(auto x:nums){
 for(auto x:st){
     if(st.find(x-1)==st.end()){
         count=1;
-          int element=x;
-
-        while(st.find(element+1)!=st.end()){
-         count++;
-         element++;
-        }
+      int element=x;
+    while(st.find(element+1)!=st.end()){
+        count++;
+        element++;
     }
     maxi=max(count,maxi);
+    }
 }
 return maxi;
     }
