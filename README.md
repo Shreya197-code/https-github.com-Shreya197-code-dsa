@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1768-merge-strings-alternately) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0686-repeated-string-match) |
+| [0844-backspace-string-compare](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1518-water-bottles) |
