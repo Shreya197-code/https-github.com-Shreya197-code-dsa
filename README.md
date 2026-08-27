@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0303-range-sum-query-immutable) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0435-non-overlapping-intervals) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1854-maximum-population-year](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1854-maximum-population-year) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -533,4 +537,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
