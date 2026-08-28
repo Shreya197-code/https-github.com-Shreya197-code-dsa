@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0713-subarray-product-less-than-k) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -410,10 +412,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0493-reverse-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -544,4 +548,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
