@@ -1,23 +1,24 @@
 class Solution {
 public:
     int countSpecialIntegers(vector<int>& nums) {
+        vector<bool> seen(101, false);
+        vector<bool> bad(101, false);
+
         int ans = 0;
 
-        for (int x = 1; x <= 100; x++) {
-            int first = -1, last = -1, freq = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            if (i == 0 || nums[i] != nums[i - 1]) {
+                int x = nums[i];
 
-            for (int i = 0; i < nums.size(); i++) {
-                if (nums[i] == x) {
-                    if (first == -1)
-                        first = i;
-
-                    last = i;
-                    freq++;
+                if (!seen[x]) {
+                    seen[x] = true;
+                    ans++;
+                }
+                else if (!bad[x]) {
+                    bad[x] = true;
+                    ans--;
                 }
             }
-
-            if (freq > 0 && last - first + 1 == freq)
-                ans++;
         }
 
         return ans;
