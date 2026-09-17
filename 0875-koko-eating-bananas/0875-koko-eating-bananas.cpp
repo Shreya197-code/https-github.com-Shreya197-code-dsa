@@ -8,7 +8,7 @@ public:
             int mid=low+(high-low)/2;
             long long total=0;
             for(int pile:piles){
-                total+=ceil((double)pile/mid);
+                total+=(pile + mid - 1) / mid;
             }
             if(total<=h){
                 ans=mid;
