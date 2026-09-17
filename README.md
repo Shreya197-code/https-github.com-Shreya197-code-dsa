@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
