@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0455-assign-cookies) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0704-binary-search) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0316-remove-duplicate-letters) |
+| [0410-split-array-largest-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0860-lemonade-change) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0264-ugly-number-ii) |
+| [0410-split-array-largest-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0647-palindromic-substrings) |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0724-find-pivot-index) |
