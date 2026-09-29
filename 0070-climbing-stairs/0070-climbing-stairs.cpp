@@ -7,8 +7,9 @@ public:
 for(int i=2;i<=n;i++){
      int curr=prev+prev2;
      prev2=prev;
-     prev=curr;
+    prev=curr;
 }
 return prev;
+
     }
 };
