@@ -6,6 +6,5 @@ public:
             xorr^=nums[i];
         }
         return xorr;
-
     }
 };
