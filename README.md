@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0493-reverse-pairs) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0455-assign-cookies) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
