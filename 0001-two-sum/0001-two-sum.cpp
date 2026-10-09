@@ -5,11 +5,10 @@ public:
     for(int i=0;i<nums.size();i++){
         int more=target-nums[i];
         if(mpp.find(more)!=mpp.end()){
-            return {i,mpp[more]};
+            return {mpp[more],i};
         }
         mpp[nums[i]]=i;
-
     }
-    return {};
+    return {-1,-1};
     }
 };
