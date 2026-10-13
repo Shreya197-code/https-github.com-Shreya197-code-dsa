@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Breadth-First Search
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
