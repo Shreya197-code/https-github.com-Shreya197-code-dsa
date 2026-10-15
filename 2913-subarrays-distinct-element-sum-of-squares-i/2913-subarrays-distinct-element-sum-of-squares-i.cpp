@@ -1,17 +1,20 @@
 class Solution {
 public:
     int sumCounts(vector<int>& nums) {
-        int sum=0;
-        int n=nums.size();
-        for(int i=0;i<n;i++) {
-            unordered_set<int>st;
-            for(int j=i;j<n;j++){
-                st.insert(nums[j]);
-                int count=st.size();
-                sum+=count*count;
+       int n=nums.size();
+       int sum=0;
+       for(int i=0;i<n;i++){
+        int freq[101]={0};
+        int dis=0;
+        for(int j=i;j<n;j++){
+            if(freq[nums[j]]==0){
+              dis++;
             }
+            freq[nums[j]]++;
+            sum+=dis*dis;
         }
-        return sum;
+       }
+       return sum;
         
     }
 };
