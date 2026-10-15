@@ -2,20 +2,16 @@
 class Solution {
 public:
     bool threeFibonacciSum(int n) {
-        vector<long long> fib = {0, 1};
+        long long a = 0, b = 1;
         while (true) {
-            int s = fib.size();
-            long long next = fib[s - 1] + fib[s - 2];
-            if (next > n) break;
-            fib.push_back(next);
-        }
-        int s = fib.size();
-        for (int i = 0; i + 2 < s; i++) {
-            if (fib[i] + fib[i + 1] + fib[i + 2] == n) {
+            long long c = a + b;
+            if (a + b + c == n)
                 return true;
-            }
-        }
+            if (a + b + c > n)
+                return false;
 
-        return false;
+            a = b;
+            b = c;
+        }
     }
 };
