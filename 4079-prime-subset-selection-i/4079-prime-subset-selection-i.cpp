@@ -1,31 +1,25 @@
 class Solution {
 public:
+    bool isprime(int n){
+        if(n<=1) return false;
+        for(int i=2; i*i<=n; i++){
+            if(n%i == 0) return false;
+        }
+        return true;
+    }
     vector<int> maxPrimes(int n, int s) {
-
-        vector<bool> isPrime(n + 1, true);
-        isPrime[0] = isPrime[1] = false;
-
-        // Sieve of Eratosthenes
-        for (int i = 2; 1LL * i * i <= n; i++) {
-            if (isPrime[i]) {
-                for (int j = i * i; j <= n; j += i) {
-                    isPrime[j] = false;
-                }
+        vector<int>prime;
+        int i=0;
+        int sum=0;
+        while(i<=n){
+            
+            if(isprime(i)){
+                if(sum+i > s)break;
+                sum+=i;
+                prime.push_back(i);
             }
+            i++;
         }
-
-        vector<int> ans;
-        long long sum = 0;
-
-        for (int i = 2; i <= n; i++) {
-            if (isPrime[i]) {
-                if (sum + i > s) break;
-
-                sum += i;
-                ans.push_back(i);
-            }
-        }
-
-        return ans;
+       return prime;
     }
 };
