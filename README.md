@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1768-merge-strings-alternately) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1518-water-bottles](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1952-three-divisors) |
