@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3620-network-recovery-pathways](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3620-network-recovery-pathways) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Trie
 |  |
 | ------- |
