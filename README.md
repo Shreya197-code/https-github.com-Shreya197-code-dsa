@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1539-kth-missing-positive-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
