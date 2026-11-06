@@ -1,49 +1,22 @@
-
 class Solution {
 public:
     vector<int> countServers(int n, vector<vector<int>>& logs, int x, vector<int>& queries) {
+        ranges::sort(logs, {}, [](auto& log) { return log[1]; });  // by time
+        logs.push_back({0, INT_MAX});  // sentinel: no window ever reaches it
+        vector<int> order(queries.size());
+        iota(order.begin(), order.end(), 0);
+        ranges::sort(order, {}, [&](int i) { return queries[i]; });  // query positions in time order
 
-        sort(logs.begin(), logs.end(), [](auto &a, auto &b) {
-            return a[1] < b[1];
-        });
-
-        vector<pair<int, int>> q;
-
-        for (int i = 0; i < queries.size(); i++) {
-            q.push_back({queries[i], i});
+        vector<int> cnt(n + 1), ans(queries.size());  // cnt: requests per server inside the window [q - x, q]
+        int busy = 0, lo = 0, hi = 0;  // busy: servers with at least one request in it
+        for (int i : order) {
+            int q = queries[i];
+            for (; logs[hi][1] <= q; ++hi)  // requests up to q come in
+                busy += cnt[logs[hi][0]]++ == 0;
+            for (; logs[lo][1] < q - x; ++lo)  // requests before q - x go out
+                busy -= --cnt[logs[lo][0]] == 0;
+            ans[i] = n - busy;
         }
-
-        sort(q.begin(), q.end());
-
-        vector<int> ans(queries.size(), 0);
-        unordered_map<int, int> freq;
-
-        int left = 0, right = 0;
-
-        for (auto &query : q) {
-
-            int start = query.first - x;
-            int end = query.first;
-            int idx = query.second;
-
-            while (right < logs.size() && logs[right][1] <= end) {
-                freq[logs[right][0]]++;
-                right++;
-            }
-
-            while (left < right && logs[left][1] < start) {
-                freq[logs[left][0]]--;
-
-                if (freq[logs[left][0]] == 0) {
-                    freq.erase(logs[left][0]);
-                }
-
-                left++;
-            }
-
-            ans[idx] = n - freq.size();
-        }
-
         return ans;
     }
 };
