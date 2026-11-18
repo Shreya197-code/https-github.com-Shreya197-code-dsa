@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/1768-merge-strings-alternately) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Shreya197-code/https-github.com-Shreya197-code-dsa/tree/master/3863-minimum-operations-to-sort-a-string) |
